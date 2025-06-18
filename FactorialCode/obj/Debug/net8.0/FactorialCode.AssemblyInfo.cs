@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FactorialCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d21de316977a9d3b5c2dc92b8d5831a68bbfc4b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FactorialCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FactorialCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
