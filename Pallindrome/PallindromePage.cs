@@ -9,5 +9,8 @@ class PallindromeClass
         string str = "madam";
         string pall = new string(str.ToCharArray().Reverse().ToArray());
         WriteLine(string.Equals(str, pall, StringComparison.OrdinalIgnoreCase));
+
+        //Without LINQ
+
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReverseEachWordOfTheString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e20d9c306f68e0a6b2c9a66d917e73a18f2deffe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddd4cf9780ee365df144ee9ae91efd9800d7e0d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReverseEachWordOfTheString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReverseEachWordOfTheString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

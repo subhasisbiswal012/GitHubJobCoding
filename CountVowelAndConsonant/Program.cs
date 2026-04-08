@@ -20,4 +20,27 @@
         }
         Console.WriteLine($"Vowe Count = {vowel}, Consonant Count = {consonant}");
     }
+
+
+    //Contains intead of IndexOf and use of tuple
+    public static (int, int) CountVowelAndConstant(string str)
+    {
+        str = str.ToLower();
+        int v = 0;
+        int c = 0;
+        for (int i = 0; i < str.Length - 1; i++)
+        {
+            if ("aeiouAEIOU".Contains(str[i]))
+            {
+                v++;
+            }
+            else
+            {
+                c++;
+            }
+        }
+        return (v, c);
+    }
 }
+
+

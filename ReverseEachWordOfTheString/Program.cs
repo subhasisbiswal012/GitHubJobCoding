@@ -3,7 +3,7 @@ public class HelloWorld
 {
     public static void Main(string[] args)
     {
-        //Reverse Each Word in a string without chenging the order in sentence
+        //Reverse Each Word in a string without changing the order in sentence
         string sentence = "This is a Bike.";
         string[] arr = sentence.Split(' ');
         string rev = string.Empty;
@@ -14,7 +14,7 @@ public class HelloWorld
             //{
             //    rev += arr[i][j];
             //}
-            if (i < arr.Length)
+            if (i < arr.Length-1)// Without -1 one space is coming after the last word
             {
                 rev += " ";
             }

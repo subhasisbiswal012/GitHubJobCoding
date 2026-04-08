@@ -13,6 +13,15 @@ public class HelloWorld
         b = a.Substring(0, a.Length - b.Length);
         a = a.Substring(b.Length);
         Console.WriteLine($"a = {a}, b = {b}");
+
+
+        string val1 = "Hello";
+        string val2 = "There";
+        val2 = val1 + val2;
+        val1 = val2.Substring(val1.Length);
+        val2 = val2.Substring(0, val1.Length);
+        Console.WriteLine(val1);
+        Console.WriteLine(val2);
     }
 
 }
