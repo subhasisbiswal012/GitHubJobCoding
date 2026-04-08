@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RemoveTheDuplicateCharFromString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d21de316977a9d3b5c2dc92b8d5831a68bbfc4b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e20d9c306f68e0a6b2c9a66d917e73a18f2deffe")]
 [assembly: System.Reflection.AssemblyProductAttribute("RemoveTheDuplicateCharFromString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RemoveTheDuplicateCharFromString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

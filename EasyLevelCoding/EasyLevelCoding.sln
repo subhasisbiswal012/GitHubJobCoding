@@ -55,6 +55,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintDuplicateValuesFromArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArrayInDescendingOrder", "..\SortArrayInDescendingOrder\SortArrayInDescendingOrder.csproj", "{52709A03-6137-42C8-86F7-B34204668504}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LeetCodeProblems", "LeetCodeProblems", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.TwoSum", "..\LeetCodeProblems\1.TwoSum\1.TwoSum.csproj", "{91380406-CA80-48BC-8023-4D603E264A64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -149,6 +153,10 @@ Global
 		{52709A03-6137-42C8-86F7-B34204668504}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52709A03-6137-42C8-86F7-B34204668504}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52709A03-6137-42C8-86F7-B34204668504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91380406-CA80-48BC-8023-4D603E264A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91380406-CA80-48BC-8023-4D603E264A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91380406-CA80-48BC-8023-4D603E264A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91380406-CA80-48BC-8023-4D603E264A64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -175,6 +183,7 @@ Global
 		{379E772E-8D4E-40DC-902F-B4835D515874} = {563ADFC7-02EF-4983-B8D4-70FE1D8908C8}
 		{D34BDE69-6720-40CE-B7F2-38A63633F00B} = {E924EE48-9A5C-47DC-991B-A0DF97602D51}
 		{52709A03-6137-42C8-86F7-B34204668504} = {E924EE48-9A5C-47DC-991B-A0DF97602D51}
+		{91380406-CA80-48BC-8023-4D603E264A64} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E9288DD1-AA5D-4B6B-BAAA-2CCC4900579E}
