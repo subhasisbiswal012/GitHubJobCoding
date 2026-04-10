@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FindTheThirdLargestInArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e20d9c306f68e0a6b2c9a66d917e73a18f2deffe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69d7e6757e51ce55d6d994e8bd0ace414eee1eda")]
 [assembly: System.Reflection.AssemblyProductAttribute("FindTheThirdLargestInArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FindTheThirdLargestInArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
