@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeftCircularRotaion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e20d9c306f68e0a6b2c9a66d917e73a18f2deffe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7049c22c430f1b6807c437a167350520f8fd039")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeftCircularRotaion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeftCircularRotaion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
