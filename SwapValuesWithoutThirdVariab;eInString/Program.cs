@@ -15,11 +15,11 @@ public class HelloWorld
         Console.WriteLine($"a = {a}, b = {b}");
 
 
-        string val1 = "Hello";
+        string val1 = "Hellore";
         string val2 = "There";
         val2 = val1 + val2;
         val1 = val2.Substring(val1.Length);
-        val2 = val2.Substring(0, val1.Length);
+        val2 = val2.Substring(0, val2.Length - val1.Length);
         Console.WriteLine(val1);
         Console.WriteLine(val2);
     }

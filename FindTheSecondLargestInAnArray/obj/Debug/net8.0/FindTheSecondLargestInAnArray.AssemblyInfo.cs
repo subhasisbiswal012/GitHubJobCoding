@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FindTheSecondLargestInAnArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e20d9c306f68e0a6b2c9a66d917e73a18f2deffe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c84d3c4291d2d11d6899712bb85924f4166cf53c")]
 [assembly: System.Reflection.AssemblyProductAttribute("FindTheSecondLargestInAnArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FindTheSecondLargestInAnArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
